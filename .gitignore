@@ -1,0 +1,38 @@
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE / Editors
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Mac OS / macOS / macOS
+.DS_Store
+
+# Miscellaneous
+*.bak
+*.tmp
+
+# Compiled binary addons (node-gyp)
+/build/
